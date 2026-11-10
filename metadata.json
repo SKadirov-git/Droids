@@ -1,0 +1,6 @@
+{
+  "name": "Droids",
+  "description": "Classic arcade block-puzzle game featuring retro themes, sound effects, and Korobeiniki chiptune",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
